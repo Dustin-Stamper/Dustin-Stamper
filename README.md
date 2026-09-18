@@ -54,23 +54,23 @@ One app already live in the ServiceNow Store; currently building a universal rol
 | 🤖 | **3-agent AI pipeline** powering dispatch optimization |
 | 🏪 | **1 published ServiceNow Store app** — with a second in development |
 
-## 🧰 Stack
+## 📊 GitHub by the Numbers
 
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1b26?style=for-the-badge&logo=javascript&logoColor=7aa2f7)
-![HTML5](https://img.shields.io/badge/HTML5-1a1b26?style=for-the-badge&logo=html5&logoColor=7aa2f7)
-![QuickBase](https://img.shields.io/badge/QuickBase-1a1b26?style=for-the-badge&logo=databricks&logoColor=7aa2f7)
-![ServiceNow](https://img.shields.io/badge/ServiceNow-1a1b26?style=for-the-badge&logo=servicenow&logoColor=7aa2f7)
-![Node.js](https://img.shields.io/badge/Node.js-1a1b26?style=for-the-badge&logo=nodedotjs&logoColor=7aa2f7)
-![REST API](https://img.shields.io/badge/REST%20%2B%20XML%20APIs-1a1b26?style=for-the-badge&logo=fastapi&logoColor=7aa2f7)
-![Leaflet](https://img.shields.io/badge/Leaflet-1a1b26?style=for-the-badge&logo=leaflet&logoColor=7aa2f7)
-![Claude](https://img.shields.io/badge/Claude%20%2B%20MCP-1a1b26?style=for-the-badge&logo=anthropic&logoColor=7aa2f7)
-![Playwright](https://img.shields.io/badge/Playwright-1a1b26?style=for-the-badge&logo=playwright&logoColor=7aa2f7)
-
-## 📊 Stats
+Most of my work ships to **private production repos** — so instead of widget cards that can't see it, here are the real figures:
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Dustin-Stamper&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dustin-Stamper&theme=tokyonight&hide_border=true" height="165" />
+
+![Repositories](https://img.shields.io/badge/Repositories-30-7aa2f7?style=for-the-badge&labelColor=1a1b26)
+![Commits](https://img.shields.io/badge/Commits-350%2B-7aa2f7?style=for-the-badge&labelColor=1a1b26)
+![Active](https://img.shields.io/badge/Active%20This%20Quarter-7%20repos-7aa2f7?style=for-the-badge&labelColor=1a1b26)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-7%20repos-7aa2f7?style=for-the-badge&labelColor=1a1b26)
+![Python](https://img.shields.io/badge/Python-6%20repos-7aa2f7?style=for-the-badge&labelColor=1a1b26)
+![HTML](https://img.shields.io/badge/HTML-6%20repos-7aa2f7?style=for-the-badge&labelColor=1a1b26)
+![TypeScript](https://img.shields.io/badge/TypeScript-3%20repos-7aa2f7?style=for-the-badge&labelColor=1a1b26)
+
+<sub>*Counted from the actual account · September 2026*</sub>
+
 </div>
 
 <div align="center">
